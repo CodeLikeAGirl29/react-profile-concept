@@ -1,7 +1,7 @@
 import React from "react";
 import ShowMoreText from "react-show-more-text";
-import Navbar from "components/Navbar.js";
-import Footer from "components/Footer.js";
+import Navbar from "../components/Navbar.jsx";
+import Footer from "../components/Footer.jsx";
 
 export default function Profile() {
       const executeOnClick = (isExpanded) => {
