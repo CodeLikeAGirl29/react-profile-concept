@@ -25,6 +25,8 @@
 
 ## Description
 
+Seamlessly combining cutting-edge technology with intuitive design, we craft a dynamic and engaging platform tailored just for you.
+
 ### React Profile Page + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
